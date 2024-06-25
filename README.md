@@ -8,3 +8,5 @@ As not all stocks were mentioned on each day, a sentiment value of 0 was assigne
 Suggested usage: "memefied" stocks that were popular on r/WallStreetBets in January and February of 2021 (e.g. GME, AMC, BB, TSLA).
 
 Potential future improvements: including text data from other online forums (e.g. Yahoo Finance, Stockopedia).
+
+Libraries used: pandas, os, numpy, yfinance, nltk, re, textblob, matplotlib, seaborn
